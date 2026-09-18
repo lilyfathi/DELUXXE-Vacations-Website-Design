@@ -32,8 +32,6 @@ The screens include:
 ## Design Tools
 
 - Figma
-- Canva
-- Adobe Photoshop
 
 ## Project Focus
 
